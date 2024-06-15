@@ -1,0 +1,54 @@
+[
+    {
+        "name": "MEN WEARS",
+        "products": [
+            {
+                "id": 1,
+                "name": "Product A",
+                "price": 10,
+                "description": "Description of Product A",
+                "image": "product.jpeg"
+            },
+            {
+                "id": 2,
+                "name": "Product B",
+                "price": 20,
+                "description": "Description of Product B",
+                "image": "productb.jpeg"
+            },
+            {
+                "id": 3,
+                "name": "Product C",
+                "price": 15,
+                "description": "Description of Product C",
+                "image": "product_c.jpg"
+            }
+        ]
+    },
+    {
+        "name": "WOMEN WEARS",
+        "products": [
+            {
+                "id": 4,
+                "name": "Product D",
+                "price": 25,
+                "description": "Description of Product D",
+                "image": "productd.jpeg"
+            },
+            {
+                "id": 5,
+                "name": "Product E",
+                "price": 30,
+                "description": "Description of Product E",
+                "image": "product_e.jpg"
+            },
+            {
+                "id": 6,
+                "name": "Product F",
+                "price": 18,
+                "description": "Description of Product F",
+                "image": "product_f.jpg"
+            }
+        ]
+    }
+]
