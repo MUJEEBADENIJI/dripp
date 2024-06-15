@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", function() {
 });
 
 function fetchCategories() {
-    fetch("productcat.json")
+    fetch("store.json")
         .then(response => response.json())
         .then(data => renderCategories(data));
 }
