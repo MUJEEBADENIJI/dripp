@@ -1,6 +1,6 @@
 [
     {
-        "name": "MEN WEARS",
+        "name": "HOODIE",
         "products": [
             {
                 "id": 1,
@@ -26,7 +26,59 @@
         ]
     },
     {
-        "name": "WOMEN WEARS",
+        "name": "SHIRTS",
+        "products": [
+            {
+                "id": 4,
+                "name": "Product D",
+                "price": 25,
+                "description": "Description of Product D",
+                "image": "productde.jpeg"
+            },
+            {
+                "id": 5,
+                "name": "Product E",
+                "price": 30,
+                "description": "Description of Product E",
+                "image": "product_e.jpg"
+            },
+            {
+                "id": 6,
+                "name": "Product F",
+                "price": 18,
+                "description": "Description of Product F",
+                "image": "product_f.jpg"
+            }
+        ]
+    },
+    {
+        "name": "SHORTS",
+        "products": [
+            {
+                "id": 4,
+                "name": "Product D",
+                "price": 25,
+                "description": "Description of Product D",
+                "image": "productde.jpeg"
+            },
+            {
+                "id": 5,
+                "name": "Product E",
+                "price": 30,
+                "description": "Description of Product E",
+                "image": "product_e.jpg"
+            },
+            {
+                "id": 6,
+                "name": "Product F",
+                "price": 18,
+                "description": "Description of Product F",
+                "image": "product_f.jpg"
+            }
+        ]
+    },
+    {
+        "name": "TROUSERS",
         "products": [
             {
                 "id": 4,
