@@ -13,6 +13,26 @@ body {
     padding: 20px 0;
 }
 
+button {
+    background-color: #fff;
+    border: 2px solid #ff6f61;
+    color: #ff6f61;
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+button:hover {
+    background-color: #ff6f61;
+    color: #fff;
+}
+
+.hidden {
+    display: none;
+}
+
 .hero {
     text-align: center;
     padding: 20px;
@@ -53,13 +73,9 @@ body {
     border-radius: 10px;
 }
 
-.contact {
+.footer {
     text-align: center;
-    padding: 20px;
-    background-color: #fff;
-}
-
-.contact a {
-    color: #ff6f61;
-    text-decoration: none;
+    padding: 10px;
+    background-color: #ff6f61;
+    color: white;
 }
