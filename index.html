@@ -3,28 +3,31 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Surprise Click</title>
+    <title>Happy Birthday Dad!</title>
     <link rel="stylesheet" href="styles.css">
+    <script src="script.js" defer></script>
 </head>
 <body>
     <header class="header">
-        <h1>Happy Birthday, Dad!</h1>
+        <h1>Happy Birthday to You, Dad!</h1>
+        <button id="reveal-button">Click to Reveal</button>
     </header>
-    <section class="hero">
-        <img src="your-hero-image.jpg" alt="Happy Birthday" class="hero-image">
-        <p class="message">Dad, you are the best! Wishing you a day filled with love and happiness. Happy Birthday!</p>
+    <section id="content" class="hidden">
+        <section class="hero">
+            <img src="your-hero-image.jpg" alt="Happy Birthday" class="hero-image">
+            <p class="message">Dad, you are the best! Wishing you a day filled with love and happiness. Happy Birthday!</p>
+        </section>
+        <section class="gallery">
+            <h2>Memorable Moments</h2>
+            <div class="photos">
+                <img src="photo1.jpg" alt="Photo 1">
+                <img src="photo2.jpg" alt="Photo 2">
+                <img src="photo3.jpg" alt="Photo 3">
+            </div>
+        </section>
     </section>
-    <section class="gallery">
-        <h2>Memorable Moments</h2>
-        <div class="photos">
-            <img src="photo1.jpg" alt="Photo 1">
-            <img src="photo2.jpg" alt="Photo 2">
-            <img src="photo3.jpg" alt="Photo 3">
-        </div>
-    </section>
-    <section class="contact">
-        <h2>Contact Information</h2>
-        <p>Feel free to get in touch: <a href="mailto:your-email@example.com">your-email@example.com</a></p>
-    </section>
+    <footer class="footer">
+        <p>Courtesy of Happycode and Family</p>
+    </footer>
 </body>
 </html>
