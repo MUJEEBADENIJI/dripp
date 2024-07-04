@@ -41,8 +41,7 @@ button:hover {
 
 .hero-image {
     width: 100vw;
-    max-width: 600px;
-    height: auto;
+    height: 70vh;
     border-radius: 10px;
 }
 
