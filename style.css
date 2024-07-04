@@ -48,7 +48,8 @@ button:hover {
 
 .message {
     font-size: 1.2em;
-    margin-top: 20px;
+    margin-top: 5px;
+    width:100vw;
 }
 
 .gallery {
