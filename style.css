@@ -47,9 +47,9 @@ button:hover {
 }
 
 .message {
-    font-size: 1.2em;
+    font-size: 1.0em;
     margin-top: 5px;
-    width:100vw;
+    width:90vw;
 }
 
 .gallery {
