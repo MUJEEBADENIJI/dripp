@@ -88,3 +88,10 @@ button:hover {
     height: 30vh;
     border-radius: 10px;
 }
+
+.vid{
+    width: 90%;
+    margin: 5px; 
+    height: 30vh;
+    border-radius: 10px 
+}
