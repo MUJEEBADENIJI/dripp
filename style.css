@@ -39,7 +39,7 @@ button:hover {
     background-color: #fff;
 }
 
-.hero-image {
+#imagem {
     width: 100vw;
     height: 70vh;
     border-radius: 10px;
