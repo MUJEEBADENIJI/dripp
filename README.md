@@ -1,2 +1,2 @@
 # dripp
-Niggas Drip Official Website
+HBD Type
